@@ -4,5 +4,7 @@ theme: just-the-docs
 
 url: https://jkcoding7.github.io/laughing-train
 
-aux_links: # remove if you don't want this link to appear on your pages
+aux_links: 
   View on GitHub: https://github.com/prmr/JetUML
+
+aux_links_new_tab: true
