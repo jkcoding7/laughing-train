@@ -24,6 +24,7 @@ A lightweight desktop application for interactively creating and editing diagram
 ## Endorsements
 
 > I do a fair bit of modeling with some commercial tools which can be quite heavyweight. Whenever I need to quickly sketch out a design before writing code I prefer JetUML in most cases.
+> 
 > — Randall Hudson, Mitre Corporation
 
 ## Privacy Policy
