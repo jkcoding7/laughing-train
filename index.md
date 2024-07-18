@@ -5,6 +5,10 @@ nav_order: 1
 ---
 
 # JetUML
+{: .fs-9 }
+
+A desktop application for fast UML diagramming.
+{: .fs-6 .fw-300 }
 
 [![GitHub release](https://img.shields.io/github/release/prmr/JetUML.svg)](https://gitHub.com/prmr/JetUML/releases/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
