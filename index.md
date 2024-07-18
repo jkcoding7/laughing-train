@@ -30,15 +30,6 @@ A lightweight desktop application for interactively creating and editing diagram
 
 JetUML does not collect any information, personal or otherwise. The application only accesses the network to open web pages via the commands in the Help menu.
 
-## Documentation
-
-* [Installation Guide](docs/install.md)
-* [User Guide](https://www.jetuml.org/docs/user-guide.html)
-* [JetUML File Format](docs/schemas.md)
-* [Contributing Guidelines](docs/CONTRIBUTING.md)
-* [Guide for JetUML Developers](docs/developers.md)
-* [Architecture Description](/docs/architecture.md)
-
 ## JetUML in the Literature
 
 * M.P. Robillard and K. Kutschera. **Lessons Learned in Migrating from Swing to JavaFX**. IEEE Software,  37 (3), 2020. *Reports on the experience of migrating the GUI to JavaFX*. [(pdf)](https://www.cs.mcgill.ca/~martin/papers/software2019.pdf)
