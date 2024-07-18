@@ -94,5 +94,5 @@ along with this program.  If not, see http://www.gnu.org/licenses.
 
 ## See Also
 
-* [Contributing Guidelines](docs/documentation/contributing-guidelines)
-* [Architecture Description](/docs/documentation/architecture)
+* [Contributing Guidelines](contributing-guidelines)
+* [Architecture Description](architecture)
