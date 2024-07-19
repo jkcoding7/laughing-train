@@ -231,6 +231,8 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   .content img 
   {
       margin: 0 auto; /* Center the image horizontally */
+      display: block;
+      margin-bottom: 10px; 
   }
 </style>
 
