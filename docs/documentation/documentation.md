@@ -8,5 +8,5 @@ permalink: /docs/documentation
 
 # Documentation
 
-Welcome to the comprehensive documentation for JetUML. This page serves as your go-to resource for understanding and utilizing JetUML effectively.
+Welcome to the comprehensive documentation for JetUML. This section serves as your go-to resource for understanding, utilizing and contributing to JetUML effectively.
 {: .fs-6 .fw-300 }
