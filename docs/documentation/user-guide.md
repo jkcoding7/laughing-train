@@ -8,7 +8,7 @@ nav_order: 1
 # User Guide
 
 This page contains the complete list of "tips" available through JetUML's "Tip of the Day" dialog. Click on an entry to expand with details.
-
+![](../../tipdata/tip_images/tip1.png)
 <div id="body">
 <button class="collapsible">Creating a New Diagram</button>
 <div class="content">
