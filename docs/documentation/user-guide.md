@@ -13,6 +13,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <div class="content">
 <p>You can create a new diagram at any point using the menu command File | New. The diagram will open in a new tab.</p>
 <img src="../../tipdata/tip_images/tip1.png">
+
 </div>
 <button class="collapsible">Creating Nodes</button>
 <div class="content">
@@ -230,7 +231,6 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   .content img 
   {
       margin: 0 auto; /* Center the image horizontally */
-      display: block; /* Ensures the image behaves properly */
   }
 </style>
 
