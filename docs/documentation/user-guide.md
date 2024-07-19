@@ -226,7 +226,11 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
     background-color: #f1f1f1;
     max-height: 0;
     transition: max-height 0.2s ease-out;
-    text-align: center;
+  }
+  .content img 
+  {
+      margin: 0 auto; /* Center the image horizontally */
+      display: block; /* Ensures the image behaves properly */
   }
 </style>
 
