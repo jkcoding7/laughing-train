@@ -12,7 +12,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
 <div id="body">
 <button class="collapsible">Creating a New Diagram</button>
 <div class="content">
-<img src="laughing-train/tipdata/tip_images/tip1.png">
+![image tooltip here](/tipdata/tip_images/tip1.png) <!-- <img src="/tipdata/tip_images/tip1.png"> -->
 <p>You can create a new diagram at any point using the menu command File | New. The diagram will open in a new tab.</p>
 </div>
 <button class="collapsible">Creating Nodes</button>
