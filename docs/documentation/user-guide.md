@@ -227,6 +227,10 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
     max-height: 0;
     transition: max-height 0.2s ease-out;
   }
+  .content img
+  {
+    horizontal-align: middle;
+  }
 </style>
 
 <!-- Source: https://www.w3schools.com/ -->
