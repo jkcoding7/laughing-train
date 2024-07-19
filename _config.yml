@@ -9,4 +9,6 @@ aux_links:
 
 aux_links_new_tab: true
 
-nav_enabled: false
+defaults:
+  -
+    nav_enabled: false
