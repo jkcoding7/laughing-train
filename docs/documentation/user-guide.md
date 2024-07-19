@@ -232,7 +232,7 @@ This page contains the complete list of "tips" available through JetUML's "Tip o
   {
       margin: 0 auto; /* Center the image horizontally */
       display: block;
-      margin-bottom: 10px; 
+      margin-bottom: 20px; 
   }
 </style>
 
